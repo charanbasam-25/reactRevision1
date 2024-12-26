@@ -1,0 +1,21 @@
+body{
+  place-items: center;
+  align-items: center;
+}
+
+.show{
+  display: block;
+}
+.hide{
+  display: none;
+}
+.onload-text{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: green;
+}
+.merry-chrismas{
+  font-size: 2rem;
+  font-weight: bold;
+  color: red;
+}

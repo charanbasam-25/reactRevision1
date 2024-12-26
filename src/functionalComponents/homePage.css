@@ -1,0 +1,16 @@
+
+
+.lighttheme{
+    background-color: white;
+    color: black;
+    border-radius: 40px;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+.darktheme{
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    padding: 40px;
+    margin-bottom: 40px;
+}
